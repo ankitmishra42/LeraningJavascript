@@ -1,0 +1,4 @@
+AdvanceJs
+1. Arrow function
+2.template litteral backtick
+3. spread/rest
